@@ -3,9 +3,11 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.util.Scanner;
 
-public class BilhaoDeSegundos {
+public class BilhaoDeSegundos 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite sua data de nascimento (formato: AAAA-MM-DD):");
