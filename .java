@@ -6,7 +6,8 @@ import java.util.Scanner;
 public class BilhaoDeSegundos 
 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Digite sua data de nascimento (formato: AAAA-MM-DD):");
@@ -27,8 +28,5 @@ public class BilhaoDeSegundos
         System.out.println(bilhaoSegundosDepois);
 
         scanner.close();
-        //comentario do vento
-        //comentario da terra
-        //git pull
     }
 }
