@@ -29,6 +29,5 @@ public class BilhaoDeSegundos
         scanner.close();
         //comentario do vento
         //comentario da terra
-        //git pull
     }
 }
