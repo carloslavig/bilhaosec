@@ -28,5 +28,6 @@ public class BilhaoDeSegundos
         System.out.println(bilhaoSegundosDepois);
 
         scanner.close();
+        //teste
     }
 }
